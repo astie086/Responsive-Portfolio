@@ -240,26 +240,22 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media screen and (max-width; 768pdx {
-	body { background color: pink}
-}
-	.wrapper { width: 200px
-}
+
 
 @media screen and (max-width; 980pdx {
 	body { background color: red}
 }
-	.wrapper { width: 800px
+	.wrapper { width: 980px
 }
 
 @media screen and (max-width; 768pdx {
 	body { background color: pink}
 }
-	.wrapper { width: 200px
+	.wrapper { width: 768px
 }
 
 @media screen and (max-width; 640pdx {
 	body { background color: yellow}
 }
-    .wrapper { width: 100px
+    .wrapper { width: 640px
 }
